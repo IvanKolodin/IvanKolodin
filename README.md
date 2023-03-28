@@ -23,3 +23,5 @@ iOS-разработчик
 <a href="https://vk.com/ivan_kolodin" target="_blank">
   <img src="https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png" alt="Telegram" width="40"/>
 </a>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IvanKolodin)
