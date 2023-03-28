@@ -21,4 +21,4 @@ iOS-разработчик
 
 [!(https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png)](https://vk.com/ivan_kolodin)
 
-<img src="[https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png](https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png)" alt="The Unlimited" width="180"/>
+<img src="[https://user-images.githubusercontent.com/124436982/228267140-a5d2e24e-d11b-4428-81fc-78c417bd4dcd.png]" alt="The Unlimited" width="180"/>
