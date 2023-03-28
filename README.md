@@ -1,4 +1,4 @@
-Привет Меня зовут Иван ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Привет Меня зовут Иван ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 iOS-разработчик 
 
@@ -13,7 +13,6 @@ iOS-разработчик
 
 🚀 Работаю над разработкой pet-проекта в команде с опытным дизайнером
 
-Как со мной связаться:
-
+## Как со мной связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IvanKolodin)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ivan_kolodin)
