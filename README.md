@@ -1,7 +1,7 @@
 ## Привет меня зовут Иван ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-### ✏️О себе
+### ✏️**О себе(bold)**
 
 Я - iOS-разработчик, который быстро обучается и готов к новому вызову. 
 Год назад увлёкся разработки на Python. Через пол года переключился на iOS-разработку. 
@@ -18,4 +18,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IvanKolodin)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ivan_kolodin)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com/anuraghazra/github-readme-stats)
