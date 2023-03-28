@@ -15,13 +15,5 @@ iOS-разработчик
 
 Как со мной связаться:
 
-<a href="https://t.me/IvanKolodin" target="_blank">
-  <img src="https://user-images.githubusercontent.com/124436982/228267140-a5d2e24e-d11b-4428-81fc-78c417bd4dcd.png" alt="Telegram" width="40"/>
-</a>
-
-
-<a href="https://vk.com/ivan_kolodin" target="_blank">
-  <img src="https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png" alt="Telegram" width="40"/>
-</a>
-
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IvanKolodin)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ivan_kolodin)
