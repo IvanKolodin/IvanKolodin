@@ -15,10 +15,10 @@ iOS-разработчик
 
 Как со мной связаться:
 
-<img src="https://user-images.githubusercontent.com/124436982/228267140-a5d2e24e-d11b-4428-81fc-78c417bd4dcd.png" height='24'> https://t.me/IvanKolodin
-
-<img src="https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png" height='24'> https://vk.com/ivan_kolodin
-
 <a href="https://t.me/IvanKolodin" target="_blank">
   <img src="https://user-images.githubusercontent.com/124436982/228267140-a5d2e24e-d11b-4428-81fc-78c417bd4dcd.png" alt="Telegram" width="40"/>
+</a>
+
+<a href="https://vk.com/ivan_kolodin" target="_blank">
+  <img src="https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png" alt="Telegram" width="40"/>
 </a>
