@@ -18,3 +18,7 @@ iOS-разработчик
 <img src="https://user-images.githubusercontent.com/124436982/228267140-a5d2e24e-d11b-4428-81fc-78c417bd4dcd.png" height='40'> https://t.me/IvanKolodin
 
 <img src="https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png" height='40'> https://vk.com/ivan_kolodin
+
+### Навыки
+
+<p align="left"> <a href="https://developer.apple.com/swift /" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg " width="36" height="36" alt="Swift" /></a> </p>
