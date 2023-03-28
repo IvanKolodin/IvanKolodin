@@ -13,6 +13,8 @@ iOS-разработчик
 
 🚀 Работаю над разработкой pet-проекта в команде с опытным дизайнером
 
+Как со мной связаться:
+
 <img src="https://user-images.githubusercontent.com/124436982/228267140-a5d2e24e-d11b-4428-81fc-78c417bd4dcd.png" height='40'> https://t.me/IvanKolodin
 
-
+<img src="https://user-images.githubusercontent.com/124436982/228267109-0b512c1b-54ac-4f07-b31f-031baf258e72.png" height='40'> https://vk.com/ivan_kolodin
